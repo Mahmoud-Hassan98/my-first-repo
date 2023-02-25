@@ -7,7 +7,7 @@ my hobbies are:
   *  Les Misérables
   *  War and peace 
 ___
-|My name|My email|My github|
+|My name|My email|github|
 |-------|-------|-------|
 |Mahmoud hassan|mahmoudd.a.hassan@gmail.com|[My github](https://github.com/Mahmoud-Hassan98)|
 ___
