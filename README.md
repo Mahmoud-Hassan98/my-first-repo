@@ -1,6 +1,6 @@
 # Self introduction
 ## Hi, good morning
-my name is **mahmoud hassan** , I am 24, I live in Zarqa, I have a BA in computer engineering, I graduated from the Faculty of Engineering from Al-Balqa Applied University ^in^ *2021* .
+my name is **mahmoud hassan** , I am 24, I live in Zarqa, I have a BA in computer engineering, I graduated from the Faculty of Engineering from Al-Balqa Applied University in *2021* .
 my hobbies are 
 * play video games
 * reading books
